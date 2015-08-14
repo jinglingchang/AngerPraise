@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  integral: MyString
+  change_time: MyString
+  source: MyString
+
+two:
+  user_id: 
+  integral: MyString
+  change_time: MyString
+  source: MyString

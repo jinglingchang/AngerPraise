@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  card: MyString
+  name: MyString
+  status: 
+  commonly_type: 
+  commonly_type_id: 
+
+two:
+  user_id: 
+  card: MyString
+  name: MyString
+  status: 
+  commonly_type: 
+  commonly_type_id: 

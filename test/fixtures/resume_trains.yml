@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  begin_work: MyString
+  end_work: MyString
+  train_school: MyString
+  train_course: MyString
+  train_detail: MyString
+
+two:
+  begin_work: MyString
+  end_work: MyString
+  train_school: MyString
+  train_course: MyString
+  train_detail: MyString

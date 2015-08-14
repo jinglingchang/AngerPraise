@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  evaluation_user_id: 
+  by_evaluation_user_id: 
+  evaluation_score: 
+  evaluation_time: MyString
+  dict_evaluation_id: 
+
+two:
+  evaluation_user_id: 
+  by_evaluation_user_id: 
+  evaluation_score: 
+  evaluation_time: MyString
+  dict_evaluation_id: 

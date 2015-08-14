@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  user_id: 
+  dict_bank_id: 
+  card: MyString
+  pay_password: MyString
+
+two:
+  user_id: 
+  user_id: 
+  dict_bank_id: 
+  card: MyString
+  pay_password: MyString

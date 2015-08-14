@@ -1,0 +1,65 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  name: MyString
+  dict_sex_id: 1
+  dict_industry_function: 1
+  dct_workexperice_id: 1
+  dict_education_id: 1
+  dict_salary_id: 1
+  dict_labor_relations_id: 1
+  dict_marries_id: 1
+  dict_households_id: 1
+  dict_months_basic_salaries_id: 1
+  dict_work_places_id: 1
+  dict_work_times_id: 1
+  dict_vacation_benefits_id: 1
+  dict_social_security_payment_id: 1
+  dict_business_trips_id: 1
+  source: MyString
+  dict_age_id: 1
+  live: MyString
+  address: MyString
+  permanent: MyString
+  phone: MyString
+  email: MyString
+  position_status: MyString
+  year_money: MyString
+  keyword: MyString
+  self_evaluation: MyText
+  work_time: MyString
+  hope_industry: MyString
+  hope_pay: MyString
+
+two:
+  user_id: 1
+  name: MyString
+  dict_sex_id: 1
+  dict_industry_function: 1
+  dct_workexperice_id: 1
+  dict_education_id: 1
+  dict_salary_id: 1
+  dict_labor_relations_id: 1
+  dict_marries_id: 1
+  dict_households_id: 1
+  dict_months_basic_salaries_id: 1
+  dict_work_places_id: 1
+  dict_work_times_id: 1
+  dict_vacation_benefits_id: 1
+  dict_social_security_payment_id: 1
+  dict_business_trips_id: 1
+  source: MyString
+  dict_age_id: 1
+  live: MyString
+  address: MyString
+  permanent: MyString
+  phone: MyString
+  email: MyString
+  position_status: MyString
+  year_money: MyString
+  keyword: MyString
+  self_evaluation: MyText
+  work_time: MyString
+  hope_industry: MyString
+  hope_pay: MyString

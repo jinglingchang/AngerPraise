@@ -1,0 +1,138 @@
+
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: noozan_test
+  username: admin
+  password: 123456
+  host: 61.174.13.143
+
+# Warning: The database defined as "test" will be erased and
+# re-generated from your development database when you run "rake".
+# Do not set this db to the same as development or production.
+test:
+  adapter: mysql2
+  encoding: utf8
+  database: noozan_test
+  username: admin
+  password: 123456
+  host: 61.174.13.143
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: noozan_test
+  username: admin
+  password: 123456
+  host: 61.174.13.143
+
+
+
+
+database_dict:
+  adapter: mysql2
+  encoding: utf8
+  database: dict
+  username: admin
+  password: 123456
+  host: 61.174.13.143
+
+database_anger:
+  adapter: mysql2
+  encoding: utf8
+  database: noozan_test
+  username: admin
+  password: 123456
+  host: 61.174.13.143
+
+database_project:
+  adapter: mysql2
+  encoding: utf8
+  database: project
+  username: admin
+  password: 123456
+  host: 183.131.78.101
+
+database_employers:
+  adapter: mysql2
+  encoding: utf8
+  database: employers
+  username: admin
+  password: 123456
+  host: 61.174.13.143
+
+
+database_test:
+
+  adapter: mysql2
+  encoding: utf8
+  database: noozan_test
+  username: admin
+  password: 123456
+  host: 61.174.13.143
+
+
+
+
+
+#development:
+#  adapter: mysql2
+#  encoding: utf8
+#  database: angerpraise
+#  username: admin
+#  password: 123456
+#  host: 61.174.13.143
+#
+## Warning: The database defined as "test" will be erased and
+## re-generated from your development database when you run "rake".
+## Do not set this db to the same as development or production.
+#test:
+#  adapter: mysql2
+#  encoding: utf8
+#  database: angerpraise
+#  username: admin
+#  password: 123456
+#  host: localhost
+#
+#production:
+#  adapter: mysql2
+#  encoding: utf8
+#  database: angerpraise
+#  username: admin
+#  password: 123456
+#  host: localhost
+#
+#
+#
+#
+#database_dict:
+#  adapter: mysql2
+#  encoding: utf8
+#  database: dict
+#  username: admin
+#  password: 123456
+#  host: localhost
+#
+#database_anger:
+#  adapter: mysql2
+#  encoding: utf8
+#  database: angerpraise
+#  username: admin
+#  password: 123456
+#  host: localhost
+#
+#database_project:
+#  adapter: mysql2
+#  encoding: utf8
+#  database: project
+#  username: admin
+#  password: 123456
+#  host: 10.4.20.29
+#
+#database_employers:
+#  adapter: mysql2
+#  encoding: utf8
+#  database: employers
+#  username: admin
+#  password: 123456
+#  host: localhost

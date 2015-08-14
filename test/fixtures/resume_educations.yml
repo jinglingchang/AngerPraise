@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  resume_id: 
+  begin_time: MyString
+  end_time: MyString
+  school: MyString
+  dict_major_id: 
+  major: MyString
+  describe: MyText
+
+two:
+  resume_id: 
+  begin_time: MyString
+  end_time: MyString
+  school: MyString
+  dict_major_id: 
+  major: MyString
+  describe: MyText

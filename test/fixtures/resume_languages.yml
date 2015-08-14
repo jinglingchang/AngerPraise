@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  language: MyString
+  language_level: MyString
+  listen: MyString
+  listen_level: MyString
+  writes: MyString
+  write_level: MyString
+  resume_id: 1
+
+two:
+  language: MyString
+  language_level: MyString
+  listen: MyString
+  listen_level: MyString
+  writes: MyString
+  write_level: MyString
+  resume_id: 1

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  evaluation_friend_string: MyString
+  last_evaluation_time: MyString
+
+two:
+  user_id: 
+  evaluation_friend_string: MyString
+  last_evaluation_time: MyString

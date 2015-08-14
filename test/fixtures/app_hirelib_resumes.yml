@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hirelib_resume_id: 1
+  app_resume_id: 1
+  user_name: MyString
+  user_sex: MyString
+  user_age: 1
+  hirelib_workexperice_id: 1
+  hirelib_education_id: 1
+  hirelib_compensation_id: 1
+  labor_relation: MyString
+  work_city: MyString
+  work_time: MyString
+  whether_evection: 1
+  household_registration_id: 1
+  marry: MyString
+  months_basic_salary_id: 
+  company_performance_bonus_id: 1
+  company_personal_bonus_id: 1
+  vacation_benefits_id: 1
+
+two:
+  hirelib_resume_id: 1
+  app_resume_id: 1
+  user_name: MyString
+  user_sex: MyString
+  user_age: 1
+  hirelib_workexperice_id: 1
+  hirelib_education_id: 1
+  hirelib_compensation_id: 1
+  labor_relation: MyString
+  work_city: MyString
+  work_time: MyString
+  whether_evection: 1
+  household_registration_id: 1
+  marry: MyString
+  months_basic_salary_id: 
+  company_performance_bonus_id: 1
+  company_personal_bonus_id: 1
+  vacation_benefits_id: 1
